@@ -11,14 +11,14 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, University of California, Los Angeles, 2029 (expected)
-* B.S. in GitHub, Huazhong University of Science and Engineering, 2024
+* Ph.D, University of California, Los Angeles, 2029 (expected)
+* B.S., Huazhong University of Science and Engineering, 2024
 
 Work experience
 ======
 * Summer 2023: Research Assistant
   * Nanyang Technological University
-  * Duties includes: Chiral phonons in chiral \alpha - quartz
+  * Duties includes: Chiral phonons in chiral $\alpha$ - quartz
   * Supervisor: Weibo Gao
   
 Skills
